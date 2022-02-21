@@ -10,6 +10,8 @@ namespace Gitrepo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hi,welcome all");
+            Console.WriteLine("hello");
             Console.WriteLine("how are you");
         }
     }
